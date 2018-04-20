@@ -31,7 +31,7 @@ Accepted talks will be moved to here!
 * Session Title: Takeaways from NG conf 2018
 * Preferred Timeframe: 
 * Event Type: 50-min Lecture
-* Summary: 3/4 NG conf attendees will give 10-20 minute lightning talks on their biggest takeaways from NG conf
+* Summary: NG conf is the largest angular conference in the US. With the upcomming release of Angular 6 imminent, there was aa lot of exciting innovation is coming for angular developers that will make it easier to write better code. For this meetup, 3/4 NG conf attendees will give 10-20 minute lightning talks on their biggest takeaways from NG conf.
 * Presenter Name(s): Alex Hoffman, Brendan Sawyer, Sam Blissard
 * Presenter E-mail(s): alex.hoffman@excella.com, brendan.sawyer@excella.com, sam.blissard@excella.com
 * Presenter GitHub Account: alexhoffman617, bjsawyer, samblissard

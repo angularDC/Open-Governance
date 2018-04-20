@@ -23,6 +23,18 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 Add your proposed Topic here!
 
+* Session Title: Takeaways from NG conf 2018
+* Preferred Timeframe: 
+* Event Type: 50-min Lecture
+* Summary: 3/4 NG conf attendees will give 10-20 minute lightning talks on their biggest takeaways from NG conf
+* Presenter Name(s): Alex Hoffman, Brendan Sawyer, Sam Blissard
+* Presenter E-mail(s): alex.hoffman@excella.com, brendan.sawyer@excella.com, sam.blissard@excella.com
+* Presenter GitHub Account: alexhoffman617, bjsawyer, samblissard
+* Presenter Blog:
+* Presenter image to include on Meetup.com: 
+* Audience Skill Level: All Skill Levels
+* Requirements: USB-C hookup to projection
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
 ## Accepted Topics
 

@@ -23,6 +23,11 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 Add your proposed Topic here!
 
+
+## Accepted Topics
+
+Accepted talks will be moved to here!
+
 * Session Title: Takeaways from NG conf 2018
 * Preferred Timeframe: 
 * Event Type: 50-min Lecture
@@ -35,7 +40,3 @@ Add your proposed Topic here!
 * Audience Skill Level: All Skill Levels
 * Requirements: USB-C hookup to projection
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
-
-## Accepted Topics
-
-Accepted talks will be moved to here!

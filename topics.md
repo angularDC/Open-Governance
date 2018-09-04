@@ -6,7 +6,7 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 **Instructions:** Copy and paste the template to the template into the proposed topics section below. Update with your event information. Submit a pull request with your changes!
 
-* Session Title:
+* Session Title: 
 * Preferred Timeframe:
 * Event Type: [Pick one: 50-min Lecture, Lightning Talk, Panel Event, 2-3 Hour Workshop, All Day Workshop (plan for a Saturday)]
 * Summary:
@@ -21,7 +21,25 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ## Proposed Topic
 
-Add your proposed Topic here!
+* Session Title: **RxJS/Subjects in Angular Applications**
+* Preferred Timeframe: July 11th, 2018
+* Event Type: 50-min Lecture
+* Summary: A guided discussion on the RxJS/Subject and its derivatives (ReplaySubject and BehaviorSubject) as extensions of the ever useful RxJS/Observable: 
+  * Observer/observable patterns
+  * Event management
+  * API call debouncing
+  * Caches in services
+  * Pagification
+  * Data sharing / coordination across modules/components
+  * Testing considerations
+* Presenter Name(s):  Brendon Caulkins
+* Presenter E-mail(s): brendon.caulkins@excella.com
+* Presenter GitHub Account: brendoncaulkins
+* Presenter Blog:
+* Presenter image to include on Meetup.com: https://drive.google.com/file/d/1TOgVph-pmj2iTiR3H2Z91YCqOkFgXVqg/view?usp=drivesdk
+* Audience Skill Level: All Skill Levels
+* Requirements: HDMI hookup to projector to show slides / code examples / funny cat videos
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. - Yes
 
 
 ## Accepted Topics

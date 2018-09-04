@@ -27,7 +27,7 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 Accepted talks will be moved to here!
 
-* Session Title: **RxJS/Subjects in Angular Applications**
+### RxJS/Subjects in Angular Applications
 * Preferred Timeframe: July 11th, 2018
 * Event Type: 50-min Lecture
 * Summary: A guided discussion on the RxJS/Subject and its derivatives (ReplaySubject and BehaviorSubject) as extensions of the ever useful RxJS/Observable: 
@@ -47,7 +47,8 @@ Accepted talks will be moved to here!
 * Requirements: HDMI hookup to projector to show slides / code examples / funny cat videos
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. - Yes
 
-* Session Title: Takeaways from NG conf 2018
+
+### Takeaways from NG conf 2018
 * Preferred Timeframe: 
 * Event Type: 50-min Lecture
 * Summary: ng-conf is the largest angular conference in the US. With the upcomming release of Angular 6 imminent, there was aa lot of exciting innovation is coming for angular developers that will make it easier to write better code. For this meetup, 3/4 attendees will give 10-20 minute lightning talks on their biggest takeaways from ng-conf.

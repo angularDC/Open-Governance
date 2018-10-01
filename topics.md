@@ -24,7 +24,7 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 * Session Title: Angular: An Introduction
 * Preferred Timeframe: October 1st, 2018
 * Event Type: 50-min Lecture
-* Summary: Since there have been a lot of requests for a beginner talk for Angular, this talk will be an overview of the basics of Angular. Topics covered will be Angular basics, some of the benefits of Angular, and how it stacks up to the other popular front end frameworks.
+* Summary: Since there have been a lot of requests for a beginner talk for Angular, this talk will be an overview of the basics of Angular. Topics covered will be Angular basics, some of the benefits of Angular, and how it stacks up to the other popular front end frameworks. Theres also some planned time for group discussion at the end of the presentation.
 * Presenter Name(s): Alex Hoffman
 * Presenter E-mail(s): alex.hoffman@excella.com
 * Presenter GitHub Account: alexhoffman617

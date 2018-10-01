@@ -21,6 +21,20 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ## Proposed Topic
 
+* Session Title: Angular: An Introduction
+* Preferred Timeframe: October 1st, 2018
+* Event Type: 50-min Lecture
+* Summary: Since there have been a lot of requests for a beginner talk for Angular, this talk will be an overview of the basics of Angular. Topics covered will be Angular basics, some of the benefits of Angular, and how it stacks up to the other popular front end frameworks.
+* Presenter Name(s): Alex Hoffman
+* Presenter E-mail(s): alex.hoffman@excella.com
+* Presenter GitHub Account: alexhoffman617
+* Presenter Blog: https://secure.meetupstatic.com/photos/member/1/e/0/9/highres_276607689.jpeg
+* Presenter image to include on Meetup.com:
+* Audience Skill Level: Beginners/Intermediate
+* Requirements: HDMI hookup to projector to show slides / code examples
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. -Yes
+
+
 
 
 ## Accepted Topics

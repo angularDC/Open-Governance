@@ -6,13 +6,13 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 **Instructions:** Copy and paste the template to the template into the proposed topics section below. Update with your event information. Submit a pull request with your changes!
 
-* Session Title: 
+* Session Title:  
 * Preferred Timeframe:
 * Event Type: [Pick one: 50-min Lecture, Lightning Talk, Panel Event, 2-3 Hour Workshop, All Day Workshop (plan for a Saturday)]
 * Summary:
-* Presenter Name(s):
-* Presenter E-mail(s):
-* Presenter GitHub Account:
+* Presenter Name(s):  
+* Presenter E-mail(s):  
+* Presenter GitHub Account:  
 * Presenter Blog:
 * Presenter image to include on Meetup.com:
 * Audience Skill Level: [All Skill Levels, Beginners, Intermediate, Advanced]
@@ -21,10 +21,25 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ## Proposed Topic
 
-
-
-
-
+* Session Title:  From web to mobile app development!  (NativeScript)
+* Preferred Timeframe:  flexible with notice.
+* Event Type: 50-min Lecture
+* Summary:
+Learn how best to expand your services to include cross platform (iOS, Android) native mobile app development.
+Talking points are:
+ 1/ compare mobile tech stacks
+ 2/ list stack options that leverage web skills 
+ 3/ dive into NativeScript Architecture
+ 4/ tour one of the free IDEs 
+ 5/ test a demo app on a phone
+* Presenter Name(s):  Dwight Barbour
+* Presenter E-mail(s):  dbs@dbsolutions.net 
+* Presenter GitHub Account:
+* Presenter Blog:
+* Presenter image to include on Meetup.com:
+* Audience Skill Level: Some web (html, css, js) knolwedge is helpful.  No Angular required.
+* Requirements: HDMI and electricity
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.  YES!
 
 ## Accepted Topics
 

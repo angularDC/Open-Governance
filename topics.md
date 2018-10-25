@@ -21,6 +21,20 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ## Proposed Topic
 
+* Session Title:  What is Angular Schematics?
+* Preferred Timeframe: flexible with notice
+* Event Type: 50 minutes or 20 minute lightning talk, can go either way
+* Summary: Overview on what Angular Schematics is and how it can be used to benefit you and your team.
+* Presenter Name(s):  Chris Bautista
+* Presenter E-mail(s):  christopher.bautista@capitalone.com
+* Presenter GitHub Account:  
+* Presenter Blog:
+* Presenter image to include on Meetup.com:
+* Audience Skill Level: Familiarity with Angular CLI
+* Requirements: USB-C hookup to projection
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
+
 * Session Title:  From web to mobile app development!  (NativeScript)
 * Preferred Timeframe:  flexible with notice.
 * Event Type: 50-min Lecture

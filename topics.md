@@ -21,6 +21,8 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ## Proposed Topic
 
+### Angular Schematics talk
+
 * Session Title:  What is Angular Schematics?
 * Preferred Timeframe: flexible with notice
 * Event Type: 50 minutes or 20 minute lightning talk, can go either way
@@ -34,6 +36,7 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 * Requirements: USB-C hookup to projection
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
+### NativeScript Talk
 
 * Session Title:  From web to mobile app development!  (NativeScript)
 * Preferred Timeframe:  flexible with notice.

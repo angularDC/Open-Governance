@@ -21,6 +21,19 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ## Proposed Topic
 
+### Introduction to chatbots using Watson Assistant and IBM Cloud Functions
+* Session Title:  Introduction to chatbots using Watson Assistant and IBM Cloud Functions.
+* Preferred Timeframe:  November 14, 2018
+* Event Type: Lightning Talk (20 or 50 minutes)
+* Summary: Learn the fundamentals of a chatbot that can have meaningful and natural conversations. You will learn about the Watson Assistant service and the building blocks of a conversation including intents, entities, slots, digressions, handlers and dialogs. We will use JavaScript on the Serverless side to improve our bot and the user experience.
+* Presenter Name(s):  Upkar Lidder
+* Presenter E-mail(s):  ulidder@us.ibm.com
+* Presenter GitHub Account:  https://github.com/lidderupk
+* Presenter Blog:  https://medium.com/@lidderupk
+* Presenter image to include on Meetup.com:  https://pbs.twimg.com/profile_images/814709815440068608/YKGJ-8-O_400x400.jpg
+* Audience Skill Level: All Skill Levels
+* Requirements: Curiosity about bots.
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. - Yes !
 ### Angular Schematics talk
 
 * Session Title:  What is Angular Schematics?

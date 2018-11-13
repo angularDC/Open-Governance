@@ -21,18 +21,18 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ## Proposed Topic
 
-### Introduction to chatbots using Watson Assistant and IBM Cloud Functions
-* Session Title:  Introduction to chatbots using Watson Assistant and IBM Cloud Functions.
+### Introduction to Apache Openwhisk serverless platform
+* Session Title:  Introduction to Apache Openwhisk serverless platform.
 * Preferred Timeframe:  November 14, 2018
 * Event Type: Lightning Talk (20 or 50 minutes)
-* Summary: Learn the fundamentals of a chatbot that can have meaningful and natural conversations. You will learn about the Watson Assistant service and the building blocks of a conversation including intents, entities, slots, digressions, handlers and dialogs. We will use JavaScript on the Serverless side to improve our bot and the user experience.
+* Summary: This will be a quick introduction to Serverless concepts including Actions and Triggers on the OpenWhisk Serverless open source platform. Apache OpenWhisk (Incubating) is an open source, distributed Serverless platform that executes functions (fx) in response to events at any scale. The idea is for developers to stop worrying about server management and focus on code. OpenWhisk manages the infrastructure, servers and scaling using Docker containers so you can focus on building amazing and efficient applications. Upkar Lidder is a Full Stack Developer and Data Wrangler with a decade of development experience in a variety of roles.
 * Presenter Name(s):  Upkar Lidder
 * Presenter E-mail(s):  ulidder@us.ibm.com
 * Presenter GitHub Account:  https://github.com/lidderupk
 * Presenter Blog:  https://medium.com/@lidderupk
 * Presenter image to include on Meetup.com:  https://pbs.twimg.com/profile_images/814709815440068608/YKGJ-8-O_400x400.jpg
 * Audience Skill Level: All Skill Levels
-* Requirements: Curiosity about bots.
+* Requirements: Curiosity about serverless.
 * Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. - Yes !
 ### Angular Schematics talk
 

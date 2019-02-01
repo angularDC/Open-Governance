@@ -21,6 +21,20 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ## Proposed Topic
 
+### Your Code Coverage Report is Lying to You
+* Session Title:  Your Code Coverage Report is Lying to You
+* Preferred Timeframe:February 13, 2019
+* Event Type: 30-min talk + Q&A
+* Summary:Code Coverage is a metric often used by clients (and contracts) to establish confidence in your automated test suite.  But did you know that your code coverage reports could be poorly misrepresenting the real state of your coverage?  We’ll examine how Jasmine, Karma and the Angular Testbed conspire to artificially inflate code coverage numbers, how that can negatively impact your project, and what steps can be taken to mitigate this problem.  These techniques will also cause a dramatic decrease in how long it takes to run tests, leading to faster deployments and development cycles!
+* Presenter Name(s):  Brendon Caulkins
+* Presenter E-mail(s):  brendon.caulkins@excella.com
+* Presenter GitHub Account:  brendoncaulkins
+* Presenter Blog:
+* Presenter image to include on Meetup.com: https://imgur.com/lwVYNql
+* Audience Skill Level: Beginners, Intermediate, Advanced
+* Requirements: Passion for testing and a projector
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. - Yep!!
+
 ### Introduction to chatbots using Watson Assistant and IBM Cloud Functions
 * Session Title:  Introduction to chatbots using Watson Assistant and IBM Cloud Functions.
 * Preferred Timeframe:  November 14, 2018
